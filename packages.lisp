@@ -1,3 +1,7 @@
+;; Copyright 2011 Eric D. Scott (http://EricDScott.com)
+;; Distributed under MIT License
+;; http://www.opensource.org/licenses/mit-license.php
+
 (eval-when (:compile-toplevel :load-toplevel :execute)
   (require :agraph))
 

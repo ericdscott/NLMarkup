@@ -1,4 +1,7 @@
 ;;; -*- Mode: LISP; Syntax: COMMON-LISP; Package: CL-USER; Base: 10 -*-
+;; Copyright 2011 Eric D. Scott (http://EricDScott.com)
+;; Distributed under MIT License
+;; http://www.opensource.org/licenses/mit-license.php
 
 (in-package :cl-user)
 
